@@ -1,7 +1,7 @@
 # Social Media Analysis Dashboard
 
 ## Project Overview
-This project analyzes social media performance data to identify engagement trends, audience behavior, and content effectiveness using Microsoft Excel.
+This project analyzes Spotify social media and platform data using Microsoft Excel. The dashboard provides insights into user engagement, playlist performance, artist popularity, and listening trends through interactive visualizations and KPI tracking.
 
 ## Tools Used
 - Microsoft Excel
